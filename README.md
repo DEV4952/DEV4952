@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td>University</td>
-    <td>-</tl>
+    <td>->> CPE,KMUTT</tl>
 </table>
 <br/>
 <h3 align="left">Connect with me:</h3>
